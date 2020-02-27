@@ -1,0 +1,1 @@
+[200~Use the tr command to convert all incoming text / words / variable data from upper to lower case or vise versa (translate all uppercase characters to lowercase). Bash version 4.x+ user [donotprint][/donotprint]can use parameter expansion to modify the case of alphabetic characters in parameter.
